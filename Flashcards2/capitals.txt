@@ -1,0 +1,2 @@
+Russia:Moscow:0
+Spain:Madrid:10
